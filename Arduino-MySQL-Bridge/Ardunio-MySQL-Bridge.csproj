@@ -6,4 +6,8 @@
     <AssemblyName>Arduino-MySQL-Bridge</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.11" />
+  </ItemGroup>
+
 </Project>
